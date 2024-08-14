@@ -1,2 +1,2 @@
-<h1>Overview</h1>
-![cash-register-js](https://github.com/user-attachments/assets/f401e824-d24c-4421-87a3-43a96040dd8a)
+# Overview
+![cash-register-js](https://github.com/user-attachments/assets/bd9d4f30-44a0-41d5-9127-4ac10de6515d)
